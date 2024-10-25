@@ -1,0 +1,1952 @@
+@media (min-width: 360px) and (max-width: 1198px) {
+  .header-cont-div-div {
+    padding-bottom: 0px !important;
+    margin-top: 0px !important;
+  }
+  .header-cont-div-div .all {
+    display: grid !important;
+    gap: 20px !important;
+  }
+  .header-cont-div-div .header-cont-div {
+    padding-top: 20px;
+    gap: 20px !important;
+    width: auto;
+    height: auto;
+    flex-shrink: 0;
+    border-radius: 6px;
+    background: #FFF;
+    display: flex;
+  }
+  .header-cont-div-div .header-cont-div .datapicker-start-end {
+    display: flex;
+    margin-right: 0px;
+  }
+  .header-cont-div-div .header-cont-div .datapicker-start-end p {
+    color: var(--gray, #999);
+    /* Text 1 */
+    font-family: Open Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.28px;
+    top: 6px;
+    left: 17px;
+  }
+  .header-cont-div-div .header-cont-div .datapicker-start-end .datapicker-start {
+    width: 159px;
+    height: 60px;
+    border-radius: 6px 0px 0px 6px;
+    border: 1px solid var(--gray, #999);
+    padding-top: 27px;
+    padding-left: 17px;
+  }
+  .header-cont-div-div .header-cont-div .datapicker-start-end .datapicker-end {
+    width: 159px;
+    height: 60px;
+    border-radius: 0px 6px 6px 0px;
+    border: 1px solid var(--gray, #999);
+    padding-top: 27px;
+    padding-left: 17px;
+  }
+  .header-cont-div-div .header-cont-div .form-check {
+    padding-left: 32px !important;
+  }
+  .header-cont-div-div .header-cont-div .direction input {
+    width: 318px;
+    height: 60px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    border: 1px solid var(--yellow, #FEB20E);
+    position: relative;
+    padding-top: 26px;
+    margin-right: 0px;
+  }
+  .header-cont-div-div .header-cont-div .direction input::-moz-placeholder {
+    color: var(--black, #424242);
+    /* Text 2 */
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: absolute;
+  }
+  .header-cont-div-div .header-cont-div .direction input::placeholder {
+    color: var(--black, #424242);
+    /* Text 2 */
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: absolute;
+  }
+  .header-cont-div-div .header-cont-div .direction .pp {
+    color: var(--gray, #999);
+    /* Text 1 */
+    font-family: Open Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.28px;
+    margin-top: 5px;
+    margin-left: 12px;
+    display: flex;
+    position: absolute;
+  }
+  .header-cont-div-div .header-cont-div .direction .dropdown-menu {
+    width: 100%;
+  }
+  .header-cont-div-div .header-cont-div .direction .dropdown-menu li:hover {
+    background: var(--orange-2, rgba(157, 143, 81, 0.15));
+  }
+  .header-cont-div-div .header-cont-div .direction .dropdown-menu .dropdown-item:hover,
+  .header-cont-div-div .header-cont-div .direction .dropdown-menu .dropdown-item:focus {
+    color: var(--bs-dropdown-link-hover-color);
+    background-color: var(--orange-2, rgba(242, 199, 0, 0.15));
+  }
+  .header-cont-div-div .header-cont-div .direction .dropdown-menu a {
+    display: flex;
+    flex-wrap: nowrap;
+    color: var(--black, #424242);
+    /* 14 bold */
+    font-family: Open Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+  .header-cont-div-div .header-cont-div .direction .dropdown-menu a p {
+    color: var(--gray, #999);
+    /* small */
+    font-family: Open Sans;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 2px;
+  }
+  .header-cont-div-div .header-cont-div .guests .btn {
+    background-color: #FFF;
+    width: 100%;
+    height: 60px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    border: 1px solid var(--gray, #999);
+    color: var(--black, #424242);
+    /* Text 2 */
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: start;
+    margin-right: 0px;
+  }
+  .header-cont-div-div .header-cont-div .guests .btn p {
+    color: var(--gray, #999);
+    /* Text 1 */
+    font-family: Open Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.28px;
+    text-align: start;
+    margin-bottom: 2px;
+  }
+  .header-cont-div-div .header-cont-div .guests .dropdown-menu {
+    /* width: 417px; */
+    width: 314px;
+    padding: 10px 10px;
+  }
+  .header-cont-div-div .header-cont-div .guests .dropdown-menu h1 {
+    color: var(--black, #424242);
+    /* Bold */
+    font-family: Open Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-bottom: 7px;
+  }
+  .header-cont-div-div .header-cont-div .guests .dropdown-menu .cont-a {
+    color: var(--yellow, #FEB20E);
+    /* Text 2 */
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration: none;
+  }
+  .header-cont-div-div .header-cont-div .guests .dropdown-menu .people {
+    gap: 20px;
+    padding-bottom: 22px;
+  }
+  .header-cont-div-div .header-cont-div .guests .dropdown-menu .people .plus-minus-div-p p {
+    color: var(--gray, #999);
+    /* Text 1 */
+    font-family: Open Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.28px;
+  }
+  .header-cont-div-div .header-cont-div .guests .dropdown-menu .people .plus-minus-div-p .plus-minus-div {
+    display: flex;
+    height: 35px;
+    border-radius: 10px;
+    border: 1px solid var(--gray, #999);
+  }
+  .header-cont-div-div .header-cont-div .guests .dropdown-menu .people .input-plus-minus {
+    text-align: center;
+    border: none;
+  }
+  .header-cont-div-div .header-cont-div .guests .dropdown-menu .people .btn-minus {
+    border: none;
+    background: none;
+  }
+  .header-cont-div-div .header-cont-div .guests .dropdown-menu .people .btn-plus {
+    border: none;
+    background: none;
+  }
+  .header-cont-div-div .header-cont-div .guests .children p {
+    color: var(--gray, #999);
+    /* Text 1 */
+    font-family: Open Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.28px;
+  }
+  .header-cont-div-div .header-cont-div .guests .children input {
+    width: 155px;
+    height: 35px;
+    border-radius: 10px;
+    border: 1px solid var(--yellow, #FEB20E);
+  }
+  .header-cont-div-div .header-cont-div .guests .children input::-moz-placeholder {
+    text-align: center;
+    color: var(--black, #424242);
+    /* Text 2 */
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .header-cont-div-div .header-cont-div .guests .children input::placeholder {
+    text-align: center;
+    color: var(--black, #424242);
+    /* Text 2 */
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .header-cont-div-div .header-cont-div .guests .a-btn {
+    gap: 17px;
+  }
+  .header-cont-div-div .header-cont-div .guests .a-btn a {
+    color: var(--yellow, #FEB20E);
+    /* Text 2 */
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .header-cont-div-div .header-cont-div .guests .a-btn .btn {
+    width: 159.054px;
+    height: 60px;
+    border-radius: 10px;
+    background: var(--yellow, #FEB20E);
+    color: #FFF;
+    text-align: center;
+    border: none;
+    font-family: Open Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-right: 0px;
+  }
+  .header-cont-div-div .header-cont-div .btn1 {
+    order: 2;
+    color: #FFF;
+    width: 100%;
+    height: 60px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    background: var(--yellow, #FEB20E);
+    color: var(--white, #FFF);
+    text-align: center;
+    font-family: Open Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+  .header-cont-div-div .header-cont-div .btn1:active {
+    background: radial-gradient(99.79% 100% at 31.97% 99.5%, rgba(255, 255, 255, 0) 0%, rgba(254, 178, 14, 0.6) 100%), #FEB20E;
+    box-shadow: 0px -3px 0px 0px #CEAB09 inset;
+  }
+  .header-cont-div-div .header-cont-div .btn1:hover {
+    box-shadow: 0px -3px 0px 0px #CEAB09 inset;
+  }
+  .header-cont-div-div .header-cont-div .form-check p {
+    color: var(--black, #424242);
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .header-cont-div-div .header-cont-div .form-check p:hover {
+    color: var(--yellow, #FEB20E);
+  }
+  .header-cont-div-div .header-cont-div .form-check .form-check-input {
+    border: 2px solid var(--unnamed, #ECEBED);
+  }
+  .header-cont-div-div .header-cont-div .form-check-input:checked {
+    background-color: var(--yellow, #FEB20E);
+    border: none;
+  }
+  .header-cont-div-div .header-cont-div .form-check-input:focus {
+    box-shadow: none;
+  }
+  .blog .blog-text {
+    justify-content: center;
+    margin-top: 65px;
+  }
+}
+@media (min-width: 360px) and (max-width: 1199px) {
+  .blog-svg {
+    display: none;
+  }
+  .header-cont p {
+    padding-left: 0px !important;
+    color: var(--white, #FFF);
+    /* Bold */
+    font-family: Open Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    width: auto !important;
+    margin-top: 200px;
+  }
+}
+@media (min-width: 576px) and (max-width: 1199px) {
+  .header-cont {
+    background-size: cover;
+    background-position: left;
+    max-width: 100%;
+    height: 300px !important;
+  }
+}
+@media (min-width: 360px) and (max-width: 1199px) {
+  .airlines-cont .col-6 {
+    padding-bottom: 95px;
+    width: 100%;
+  }
+  .airlines-cont .col-8 {
+    width: 100%;
+  }
+  .airlines-cont .row {
+    justify-content: center;
+  }
+  .airlines-cont .col-4 {
+    display: none;
+  }
+  .airlines-cont .nav-link11 {
+    color: var(--black, #424242);
+    text-align: center;
+    /* small */
+    font-family: Open Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration: none;
+  }
+  .airlines-cont .nav-link1 {
+    color: var(--yellow, #FEB20E);
+    text-align: center;
+    /* small */
+    font-family: Open Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .airlines-cont .h1-airlines {
+    color: var(--black, #424242);
+    /* h1 */
+    font-family: Open Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    text-align: start;
+    padding-top: 35px;
+    padding-bottom: 33px;
+  }
+  .airlines-cont .airlines-input {
+    position: relative;
+  }
+  .airlines-cont .airlines-input input {
+    height: 60px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    border: 1px solid var(--yellow, #FEB20E);
+    padding-left: 40px;
+  }
+  .airlines-cont .airlines-input svg {
+    position: absolute;
+    top: 18px;
+    left: 13px;
+  }
+  .airlines-cont .airlines-div-dog {
+    position: relative;
+    width: 215.333px;
+    height: 213px;
+    border-radius: 215.333px;
+    border: 1px solid var(--yellow, #FEB20E);
+    background: #FEB20E;
+    box-shadow: 30px 35px 45px 0px rgba(209, 217, 230, 0.48);
+    background-image: url(./img/pngwing.com.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 81% 100%;
+  }
+  .airlines-cont .airlines-row p {
+    color: var(--black, #424242);
+    text-align: center;
+    /* small */
+    font-family: Open Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding: 0px 70px;
+    padding-top: 8px;
+  }
+  .airlines-cont .btn-blog-div {
+    justify-content: center;
+    display: flex;
+    padding-bottom: 47px;
+  }
+  .airlines-cont .btn-blog-div .btn-blog {
+    display: flex;
+    min-width: 200px;
+    min-height: 60px;
+    padding: 30px 50px;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid var(--yellow, #FEB20E);
+    border-radius: 0px;
+    color: var(--black, #424242);
+    text-align: center;
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .airlines-cont .modal-body .header-cont-div {
+    padding-top: 20px;
+    gap: 0px !important;
+    width: auto;
+    height: auto;
+    flex-shrink: 0;
+    border-radius: 6px;
+    background: #FFF;
+    display: flex;
+  }
+  .airlines-cont .modal-body .header-cont-div .plus-minus-div {
+    padding-top: 2px;
+  }
+  .airlines-cont .modal-body .header-cont-div .datapicker-start-end {
+    display: flex;
+    margin-right: 0px;
+    padding-bottom: 20px;
+  }
+  .airlines-cont .modal-body .header-cont-div .datapicker-start-end p {
+    color: var(--gray, #999);
+    /* Text 1 */
+    font-family: Open Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.28px;
+    top: 6px;
+    left: 17px;
+  }
+  .airlines-cont .modal-body .header-cont-div .datapicker-start-end .datapicker-start {
+    width: 173.667px;
+    height: 60px;
+    border-radius: 6px 0px 0px 6px;
+    border: 1px solid var(--gray, #999);
+    padding-top: 27px;
+    padding-left: 17px;
+  }
+  .airlines-cont .modal-body .header-cont-div .datapicker-start-end .datapicker-end {
+    width: 173.667px;
+    height: 60px;
+    border-radius: 0px 6px 6px 0px;
+    border: 1px solid var(--gray, #999);
+    padding-top: 27px;
+    padding-left: 17px;
+  }
+  .airlines-cont .modal-body .header-cont-div .form-check {
+    padding-left: 32px !important;
+  }
+  .airlines-cont .modal-body .header-cont-div .direction {
+    padding-bottom: 20px;
+  }
+  .airlines-cont .modal-body .header-cont-div .direction input {
+    width: 347.213px;
+    height: 60px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    border: 1px solid var(--yellow, #FEB20E);
+    position: relative;
+    padding-top: 26px;
+    margin-right: 0px;
+  }
+  .airlines-cont .modal-body .header-cont-div .direction input::-moz-placeholder {
+    color: var(--black, #424242);
+    /* Text 2 */
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: absolute;
+  }
+  .airlines-cont .modal-body .header-cont-div .direction input::placeholder {
+    color: var(--black, #424242);
+    /* Text 2 */
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: absolute;
+  }
+  .airlines-cont .modal-body .header-cont-div .direction .pp {
+    color: var(--gray, #999);
+    /* Text 1 */
+    font-family: Open Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.28px;
+    margin-top: 5px;
+    margin-left: 12px;
+    display: flex;
+    position: absolute;
+  }
+  .airlines-cont .modal-body .header-cont-div .direction .dropdown-menu {
+    width: 100%;
+  }
+  .airlines-cont .modal-body .header-cont-div .direction .dropdown-menu li:hover {
+    background: var(--orange-2, rgba(157, 143, 81, 0.15));
+  }
+  .airlines-cont .modal-body .header-cont-div .direction .dropdown-menu .dropdown-item:hover,
+  .airlines-cont .modal-body .header-cont-div .direction .dropdown-menu .dropdown-item:focus {
+    color: var(--bs-dropdown-link-hover-color);
+    background-color: var(--orange-2, rgba(242, 199, 0, 0.15));
+  }
+  .airlines-cont .modal-body .header-cont-div .direction .dropdown-menu a {
+    display: flex;
+    flex-wrap: nowrap;
+    color: var(--black, #424242);
+    /* 14 bold */
+    font-family: Open Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+  .airlines-cont .modal-body .header-cont-div .direction .dropdown-menu a p {
+    color: var(--gray, #999);
+    /* small */
+    font-family: Open Sans;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 2px;
+  }
+  .airlines-cont .modal-body .header-cont-div .guests {
+    padding-bottom: 10px;
+  }
+  .airlines-cont .modal-body .header-cont-div .guests .btn {
+    background-color: #FFF;
+    width: 347px;
+    height: 60px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    border: 1px solid var(--gray, #999);
+    color: var(--black, #424242);
+    /* Text 2 */
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: start;
+    margin-right: 0px;
+  }
+  .airlines-cont .modal-body .header-cont-div .guests .btn p {
+    color: var(--gray, #999);
+    /* Text 1 */
+    font-family: Open Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.28px;
+    text-align: start;
+    margin-bottom: 2px;
+  }
+  .airlines-cont .modal-body .header-cont-div .guests .dropdown-menu {
+    /* width: 417px; */
+    width: 100%;
+    padding: 10px 10px;
+  }
+  .airlines-cont .modal-body .header-cont-div .guests .dropdown-menu h1 {
+    color: var(--black, #424242);
+    /* Bold */
+    font-family: Open Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-bottom: 7px;
+  }
+  .airlines-cont .modal-body .header-cont-div .guests .dropdown-menu .cont-a {
+    color: var(--yellow, #FEB20E);
+    /* Text 2 */
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration: none;
+  }
+  .airlines-cont .modal-body .header-cont-div .guests .dropdown-menu .people {
+    gap: 35px;
+    padding-bottom: 22px;
+  }
+  .airlines-cont .modal-body .header-cont-div .guests .dropdown-menu .people .plus-minus-div-p p {
+    color: var(--gray, #999);
+    /* Text 1 */
+    font-family: Open Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.28px;
+  }
+  .airlines-cont .modal-body .header-cont-div .guests .dropdown-menu .people .plus-minus-div-p .plus-minus-div {
+    display: flex;
+    height: 35px;
+    border-radius: 10px;
+    border: 1px solid var(--gray, #999);
+  }
+  .airlines-cont .modal-body .header-cont-div .guests .dropdown-menu .people .input-plus-minus {
+    text-align: center;
+    border: none;
+  }
+  .airlines-cont .modal-body .header-cont-div .guests .dropdown-menu .people .btn-minus {
+    border: none;
+    background: none;
+  }
+  .airlines-cont .modal-body .header-cont-div .guests .dropdown-menu .people .btn-plus {
+    border: none;
+    background: none;
+  }
+  .airlines-cont .modal-body .header-cont-div .guests .children p {
+    color: var(--gray, #999);
+    /* Text 1 */
+    font-family: Open Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.28px;
+  }
+  .airlines-cont .modal-body .header-cont-div .guests .children input {
+    width: 180px;
+    height: 35px;
+    border-radius: 10px;
+    border: 1px solid var(--yellow, #FEB20E);
+  }
+  .airlines-cont .modal-body .header-cont-div .guests .children input::-moz-placeholder {
+    text-align: center;
+    color: var(--black, #424242);
+    /* Text 2 */
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .airlines-cont .modal-body .header-cont-div .guests .children input::placeholder {
+    text-align: center;
+    color: var(--black, #424242);
+    /* Text 2 */
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .airlines-cont .modal-body .header-cont-div .guests .a-btn {
+    gap: 17px;
+  }
+  .airlines-cont .modal-body .header-cont-div .guests .a-btn a {
+    color: var(--yellow, #FEB20E);
+    /* Text 2 */
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .airlines-cont .modal-body .header-cont-div .guests .a-btn .btn {
+    width: 159.054px;
+    height: 60px;
+    border-radius: 10px;
+    background: var(--yellow, #FEB20E);
+    color: #FFF;
+    text-align: center;
+    border: none;
+    font-family: Open Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-right: 0px;
+  }
+  .airlines-cont .modal-body .header-cont-div .btn1 {
+    order: 2;
+    color: #FFF;
+    width: 347px;
+    height: 60px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    background: var(--yellow, #FEB20E);
+    color: var(--white, #FFF);
+    text-align: center;
+    font-family: Open Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+  .airlines-cont .modal-body .header-cont-div .btn1:active {
+    background: radial-gradient(99.79% 100% at 31.97% 99.5%, rgba(255, 255, 255, 0) 0%, rgba(254, 178, 14, 0.6) 100%), #FEB20E;
+    box-shadow: 0px -3px 0px 0px #CEAB09 inset;
+  }
+  .airlines-cont .modal-body .header-cont-div .btn1:hover {
+    box-shadow: 0px -3px 0px 0px #CEAB09 inset;
+  }
+  .airlines-cont .modal-body .header-cont-div .form-check {
+    padding-bottom: 19px;
+  }
+  .airlines-cont .modal-body .header-cont-div .form-check p {
+    color: var(--black, #424242);
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .airlines-cont .modal-body .header-cont-div .form-check p:hover {
+    color: var(--yellow, #FEB20E);
+  }
+  .airlines-cont .modal-body .header-cont-div .form-check .form-check-input {
+    border: 2px solid var(--unnamed, #ECEBED);
+  }
+  .airlines-cont .modal-body .header-cont-div .form-check-input:checked {
+    background-color: var(--yellow, #FEB20E);
+    border: none;
+  }
+  .airlines-cont .modal-body .header-cont-div .form-check-input:focus {
+    box-shadow: none;
+  }
+}
+@media (min-width: 360px) and (max-width: 1400px) {
+  .airline {
+    padding-top: 167px;
+  }
+}
+@media (min-width: 360px) and (max-width: 991px) {
+  nav form li {
+    text-align: start !important;
+  }
+  nav li {
+    text-align: end !important;
+  }
+  nav .navbar-nav {
+    gap: 25px;
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+    /* margin-top: -20px; */
+    margin-top: 10px !important;
+  }
+  nav .navbar-nav li {
+    text-align: end !important;
+  }
+  nav form {
+    justify-content: end;
+  }
+  nav form .btn {
+    padding-left: 0;
+    padding-top: 22px;
+    padding-right: 0;
+  }
+  .airline {
+    padding-bottom: 40px;
+  }
+  .places {
+    padding-top: 20px;
+  }
+  .blog-text {
+    padding-left: 0 !important;
+  }
+}
+@media (min-width: 360px) and (max-width: 575px) {
+  .dog-img2 {
+    display: none;
+  }
+  .div-dog1 {
+    margin-top: -65px !important;
+  }
+  .header .header-cont {
+    background-size: cover;
+    background-position: left;
+    max-width: 100%;
+    height: 234px;
+  }
+  .header nav .navbar-brand {
+    margin-right: 0;
+  }
+  .header nav .navbar-brand .navbar-a {
+    font-size: 25.077px;
+  }
+  .header nav .navbar-brand .navbar-p {
+    font-size: 10.969px;
+  }
+  .header nav .navbar-nav {
+    gap: 20px;
+  }
+  .header nav .navbar-nav .nav-link {
+    padding: 0;
+    font-size: 15px;
+  }
+  .blog .blog-text p {
+    font-size: 16px;
+    width: 332px;
+  }
+  .blog .blog-text .blog-svg1 {
+    position: absolute;
+    margin-right: -235px;
+  }
+  .blog .col-12 {
+    display: grid;
+    justify-content: center;
+  }
+  .blog img {
+    width: 320px;
+    height: 347px;
+  }
+  .blog-svg1 {
+    margin-top: 30px;
+  }
+  .following .followin1-cont {
+    height: 619px;
+    background-size: 100% 619px;
+  }
+  .following .followin1-cont input {
+    width: 100% !important;
+  }
+  .following .followin1-cont p {
+    font-size: 16px;
+  }
+  .dog-img3-div {
+    width: 100%;
+    height: 310.883px;
+    background-image: url(./img/dog2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: contain;
+    background-position: center;
+  }
+  .dog-img2-div {
+    display: none;
+  }
+  .airline p {
+    font-size: 16px;
+  }
+  .airline .airline-logos {
+    justify-content: center;
+  }
+  .places {
+    padding-top: 0;
+  }
+  .places button {
+    width: 100%;
+    font-size: 14px;
+    text-align: start;
+  }
+  footer p {
+    font-size: 12px;
+  }
+  .header-cont-div-1 {
+    gap: 40px;
+    padding-top: 18px;
+    flex-shrink: 0;
+    border-radius: 6px;
+    background: #FFF;
+    display: flex;
+  }
+  .header-cont-div-1 .datapicker-start-end {
+    display: flex;
+    justify-content: center;
+  }
+  .header-cont-div-1 .datapicker-start-end .position-relative {
+    width: 159px !important;
+  }
+  .header-cont-div-1 .datapicker-start-end p {
+    color: var(--gray, #999);
+    font-family: Open Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.28px;
+    top: 6px;
+    left: 17px;
+  }
+  .header-cont-div-1 .datapicker-start-end .datapicker-start {
+    width: 159px !important;
+    height: 60px;
+    border-radius: 6px 0px 0px 6px;
+    border: 1px solid var(--gray, #999);
+    padding-top: 27px;
+    padding-left: 17px;
+  }
+  .header-cont-div-1 .datapicker-start-end .datapicker-end {
+    width: 159px !important;
+    height: 60px;
+    border-radius: 0px 6px 6px 0px;
+    border: 1px solid var(--gray, #999);
+    padding-top: 27px;
+    padding-left: 17px;
+  }
+  .header-cont-div-1 .direction {
+    justify-content: center;
+  }
+  .header-cont-div-1 .direction input {
+    width: 318px;
+    height: 60px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    border: 1px solid var(--yellow, #FEB20E);
+    position: relative;
+    padding-top: 26px;
+  }
+  .header-cont-div-1 .direction input::-moz-placeholder {
+    color: var(--black, #424242);
+    /* Text 2 */
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: absolute;
+  }
+  .header-cont-div-1 .direction input::placeholder {
+    color: var(--black, #424242);
+    /* Text 2 */
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: absolute;
+  }
+  .header-cont-div-1 .direction .pp {
+    color: var(--gray, #999);
+    /* Text 1 */
+    font-family: Open Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.28px;
+    margin-top: 5px;
+    margin-left: 12px;
+    display: flex;
+    position: absolute;
+  }
+  .header-cont-div-1 .direction .dropdown-menu {
+    width: 100%;
+  }
+  .header-cont-div-1 .direction .dropdown-menu li:hover {
+    background: var(--orange-2, rgba(157, 143, 81, 0.15));
+  }
+  .header-cont-div-1 .direction .dropdown-menu .dropdown-item:hover,
+  .header-cont-div-1 .direction .dropdown-menu .dropdown-item:focus {
+    color: var(--bs-dropdown-link-hover-color);
+    background-color: var(--orange-2, rgba(242, 199, 0, 0.15));
+  }
+  .header-cont-div-1 .direction .dropdown-menu a {
+    display: flex;
+    flex-wrap: nowrap;
+    color: var(--black, #424242);
+    /* 14 bold */
+    font-family: Open Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+  .header-cont-div-1 .direction .dropdown-menu a p {
+    color: var(--gray, #999);
+    /* small */
+    font-family: Open Sans;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .header-cont-div-1 .guests {
+    display: flex;
+    justify-content: center;
+  }
+  .header-cont-div-1 .guests .btn {
+    background-color: #FFF;
+    width: 318px;
+    height: 60px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    border: 1px solid var(--gray, #999);
+    color: var(--black, #424242);
+    /* Text 2 */
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: start;
+  }
+  .header-cont-div-1 .guests .btn p {
+    color: var(--gray, #999);
+    /* Text 1 */
+    font-family: Open Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.28px;
+    text-align: start;
+    margin-bottom: 2px;
+  }
+  .header-cont-div-1 .guests .dropdown-menu {
+    /* width: 417px; */
+    width: 417px;
+    padding: 37px 31px;
+  }
+  .header-cont-div-1 .guests .dropdown-menu h1 {
+    color: var(--black, #424242);
+    /* Bold */
+    font-family: Open Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-bottom: 7px;
+  }
+  .header-cont-div-1 .guests .dropdown-menu .cont-a {
+    color: var(--yellow, #FEB20E);
+    /* Text 2 */
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration: none;
+  }
+  .header-cont-div-1 .guests .dropdown-menu .people {
+    gap: 35px;
+    padding-bottom: 22px;
+  }
+  .header-cont-div-1 .guests .dropdown-menu .people .plus-minus-div-p p {
+    color: var(--gray, #999);
+    /* Text 1 */
+    font-family: Open Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.28px;
+  }
+  .header-cont-div-1 .guests .dropdown-menu .people .plus-minus-div-p .plus-minus-div {
+    display: flex;
+    height: 35px;
+    border-radius: 10px;
+    border: 1px solid var(--gray, #999);
+  }
+  .header-cont-div-1 .guests .dropdown-menu .people .input-plus-minus {
+    text-align: center;
+    border: none;
+  }
+  .header-cont-div-1 .guests .dropdown-menu .people .btn-minus {
+    border: none;
+    background: none;
+  }
+  .header-cont-div-1 .guests .dropdown-menu .people .btn-plus {
+    border: none;
+    background: none;
+  }
+  .header-cont-div-1 .guests .children p {
+    color: var(--gray, #999);
+    /* Text 1 */
+    font-family: Open Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.28px;
+  }
+  .header-cont-div-1 .guests .children input {
+    width: 180px;
+    height: 35px;
+    border-radius: 10px;
+    border: 1px solid var(--yellow, #FEB20E);
+  }
+  .header-cont-div-1 .guests .children input::-moz-placeholder {
+    text-align: center;
+    color: var(--black, #424242);
+    /* Text 2 */
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .header-cont-div-1 .guests .children input::placeholder {
+    text-align: center;
+    color: var(--black, #424242);
+    /* Text 2 */
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .header-cont-div-1 .guests .a-btn {
+    gap: 17px;
+  }
+  .header-cont-div-1 .guests .a-btn a {
+    color: var(--yellow, #FEB20E);
+    /* Text 2 */
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .header-cont-div-1 .guests .a-btn .btn {
+    width: 159.054px;
+    height: 60px;
+    border-radius: 10px;
+    background: var(--yellow, #FEB20E);
+    color: #FFF;
+    text-align: center;
+    border: none;
+    font-family: Open Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+  .header-cont-div-1 .btn1 {
+    color: #FFF;
+    width: 159.054px;
+    height: 60px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    background: var(--yellow, #FEB20E);
+    color: var(--white, #FFF);
+    text-align: center;
+    font-family: Open Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+  .header-cont-div-1 .btn1:hover {
+    border-radius: 6.079px;
+    background: radial-gradient(99.79% 100% at 31.97% 99.5%, rgba(255, 255, 255, 0) 0%, rgba(254, 178, 14, 0.6) 100%), #FEB20E;
+    box-shadow: 0px -3px 0px 0px #CEAB09 inset;
+  }
+  .header-cont-div-1 .form-check {
+    gap: 5px;
+    display: flex;
+    justify-content: center;
+  }
+  .header-cont-div-1 .form-check p {
+    color: var(--black, #424242);
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .header-cont-div-1 .form-check .form-check-input {
+    border: 1px solid var(--yellow, #FEB20E);
+  }
+  .header-cont-div-1 .form-check-input:checked {
+    background-color: #ffffff;
+  }
+  .header-cont-div-1 .form-check-input:focus {
+    box-shadow: none;
+  }
+}
+@media (min-width: 576px) and (max-width: 991px) {
+  .dog-img2 {
+    display: none;
+  }
+  .header nav .navbar-brand {
+    margin-right: 0;
+  }
+  .header nav .navbar-brand .navbar-a {
+    font-size: 30.077px;
+  }
+  .header nav .navbar-brand .navbar-p {
+    font-size: 13.969px;
+  }
+  .header nav .navbar-nav {
+    gap: 20px;
+  }
+  .header nav .navbar-nav .nav-link {
+    padding: 0;
+    font-size: 15px;
+  }
+  .blog .blog-text p {
+    font-size: 16px;
+  }
+  .blog .col-12 {
+    display: grid;
+    justify-content: center;
+  }
+  .blog img {
+    width: 320px;
+    height: 347px;
+  }
+  .blog-svg1 {
+    margin-top: 15px;
+    margin-right: 85px;
+  }
+  .following .followin1-cont {
+    height: 619px;
+    background-size: 100% 619px;
+  }
+  .following .followin1-cont input {
+    width: 100% !important;
+  }
+  .following .followin1-cont p {
+    font-size: 16px;
+  }
+  .dog-img3-div {
+    width: 100%;
+    height: 310.883px;
+    background-image: url(./img/dog2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: contain;
+    background-position: center;
+  }
+  .dog-img2-div {
+    display: none;
+  }
+  .airline p {
+    font-size: 16px;
+  }
+  .airline .airline-logos {
+    justify-content: center;
+  }
+  .places {
+    padding-top: 0;
+  }
+  .places button {
+    font-size: 14px;
+  }
+}
+@media (min-width: 991px) and (max-width: 1400px) {
+  .places .btn p {
+    font-size: 14px;
+  }
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+  .dog-img2 {
+    display: none;
+  }
+  .header nav .navbar-brand {
+    margin-right: 0;
+  }
+  .header nav .navbar-brand .navbar-a {
+    font-size: 30.077px;
+  }
+  .header nav .navbar-brand .navbar-p {
+    font-size: 13.969px;
+  }
+  .header nav .navbar-nav {
+    gap: 20px;
+    gap: 20px;
+    margin-left: 28px;
+    margin-right: 12px;
+    margin-top: -20px;
+  }
+  .header nav .navbar-nav .nav-link {
+    padding: 0;
+    font-size: 15px;
+  }
+  .header .header-cont {
+    background-size: cover;
+    background-position: left;
+    height: 400px !important;
+  }
+  .blog .col-12 {
+    display: grid;
+    justify-content: center;
+  }
+  .blog img {
+    width: 320px;
+    height: 347px;
+  }
+  .blog-svg1 {
+    margin-top: 15px;
+  }
+  .places .btn {
+    font-size: 14px;
+  }
+  .places .regions {
+    margin-left: 185px;
+  }
+  .places .country {
+    margin-left: 185px;
+  }
+  .places .cities {
+    margin-left: 185px;
+  }
+}
+@media (min-width: 1199px) and (max-width: 1920px) {
+  .navbar-header {
+    height: 122px;
+  }
+  .blog-svg1 {
+    display: none;
+  }
+}
+@media (min-width: 1200px) and (max-width: 1920px) {
+  .airlines-cont .btn11 {
+    display: none;
+  }
+}
+@media (min-width: 1200px) and (max-width: 1400px) {
+  .header nav .navbar-brand {
+    margin-right: 0;
+    margin-bottom: 17px;
+  }
+  .header nav .navbar-brand .navbar-a {
+    font-size: 40.077px;
+  }
+  .header nav .navbar-brand .navbar-p {
+    font-size: 19.969px;
+  }
+  .header nav .navbar-nav {
+    gap: 20px;
+    gap: 20px;
+    margin-left: 28px;
+    margin-right: 12px;
+    margin-top: -20px;
+  }
+  .header nav .navbar-nav .nav-link {
+    padding: 0;
+  }
+  .header .header-cont {
+    background-size: cover;
+    background-position: left;
+    max-width: 100%;
+    height: 600px;
+  }
+  .header .header-cont p {
+    padding-left: 0px !important;
+    color: var(--white, #FFF);
+    /* Bold */
+    font-family: Open Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    width: auto !important;
+    margin-top: 200px;
+  }
+  .blog img {
+    width: 356px;
+    height: 390px;
+  }
+  .blog .blog-text {
+    padding-left: 0px;
+  }
+  .blog .blog-svg {
+    margin-top: -33px;
+  }
+  .blog .blog-svg .svg-blog1 {
+    width: 72.767px;
+    height: 52.965px;
+  }
+  .blog .blog-svg .svg-blog2 {
+    width: 421.704px;
+    height: 66.221px;
+  }
+  .following .followin1-cont {
+    background-image: url(./img/folowing-img1.png);
+    background-size: 100% 100%;
+    height: 570.604px;
+  }
+  .following .followin1-cont .input-p p {
+    margin-top: 25px;
+  }
+  .following .followin1-cont .div-dog1 {
+    margin-top: -69px;
+  }
+  .following .followin1-cont .div-dog1 img {
+    width: 293.476px !important;
+    height: 412.167px !important;
+  }
+  .airline svg {
+    width: 127px;
+  }
+  .airline .airline-logos {
+    gap: 62px;
+  }
+  .places .btn {
+    font-size: 14px;
+  }
+  .places .regions {
+    margin-left: 185px;
+  }
+  .places .country {
+    margin-left: 185px;
+  }
+  .places .cities {
+    margin-left: 185px;
+  }
+  .dog-img2-div {
+    width: 427.223px;
+    height: 287.242px;
+    background-image: url(./img/dog2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: contain;
+    margin-top: -300px;
+  }
+  .dog-img2 {
+    display: none;
+  }
+  .airlines-cont .col-6 {
+    padding-bottom: 95px;
+  }
+  .airlines-cont .nav-link11 {
+    color: var(--black, #424242);
+    text-align: center;
+    /* small */
+    font-family: Open Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration: none;
+  }
+  .airlines-cont .nav-link1 {
+    color: var(--yellow, #FEB20E);
+    text-align: center;
+    /* small */
+    font-family: Open Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .airlines-cont .h1-airlines {
+    color: var(--black, #424242);
+    /* h1 */
+    font-family: Open Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    text-align: start;
+    padding-top: 35px;
+    padding-bottom: 33px;
+  }
+  .airlines-cont .airlines-input {
+    position: relative;
+  }
+  .airlines-cont .airlines-input input {
+    height: 60px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    border: 1px solid var(--yellow, #FEB20E);
+    padding-left: 40px;
+  }
+  .airlines-cont .airlines-input svg {
+    position: absolute;
+    top: 18px;
+    left: 13px;
+  }
+  .airlines-cont .airlines-div-dog {
+    position: relative;
+    width: 215.333px;
+    height: 213px;
+    border-radius: 215.333px;
+    border: 1px solid var(--yellow, #FEB20E);
+    background: #FEB20E;
+    box-shadow: 30px 35px 45px 0px rgba(209, 217, 230, 0.48);
+    background-image: url(./img/pngwing.com.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 81% 100%;
+  }
+  .airlines-cont .airlines-row p {
+    color: var(--black, #424242);
+    text-align: center;
+    /* small */
+    font-family: Open Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding: 0px 70px;
+    padding-top: 8px;
+  }
+  .airlines-cont .btn-blog-div {
+    justify-content: center;
+    display: flex;
+    padding-bottom: 47px;
+  }
+  .airlines-cont .btn-blog-div .btn-blog {
+    display: flex;
+    min-width: 200px;
+    min-height: 60px;
+    padding: 30px 50px;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid var(--yellow, #FEB20E);
+    border-radius: 0px;
+    color: var(--black, #424242);
+    text-align: center;
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .airlines-cont .header-cont-div1 {
+    display: inline-flex;
+    padding: 61px 12px 18px 12px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 42px;
+    background: var(--white, #FFF);
+    box-shadow: -3px -6px 34px 0px rgba(209, 217, 230, 0.34), -3px -6px 67px 0px rgba(209, 217, 230, 0.67);
+  }
+  .airlines-cont .header-cont-div-div {
+    padding-bottom: 0px !important;
+    margin-top: 0px !important;
+  }
+  .airlines-cont .header-cont-div-div .all {
+    display: grid !important;
+    gap: 0px !important;
+  }
+  .airlines-cont .header-cont-div-div .header-cont-div {
+    padding-top: 20px;
+    gap: 0px !important;
+    width: auto;
+    height: auto;
+    flex-shrink: 0;
+    border-radius: 6px;
+    background: #FFF;
+    display: flex;
+  }
+  .airlines-cont .header-cont-div-div .header-cont-div .datapicker-start-end {
+    display: flex;
+    margin-right: 0px;
+    padding-bottom: 40px;
+  }
+  .airlines-cont .header-cont-div-div .header-cont-div .datapicker-start-end p {
+    color: var(--gray, #999);
+    /* Text 1 */
+    font-family: Open Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.28px;
+    top: 6px;
+    left: 17px;
+  }
+  .airlines-cont .header-cont-div-div .header-cont-div .datapicker-start-end .datapicker-start {
+    width: 173.667px;
+    height: 60px;
+    border-radius: 6px 0px 0px 6px;
+    border: 1px solid var(--gray, #999);
+    padding-top: 27px;
+    padding-left: 17px;
+  }
+  .airlines-cont .header-cont-div-div .header-cont-div .datapicker-start-end .datapicker-end {
+    width: 173.667px;
+    height: 60px;
+    border-radius: 0px 6px 6px 0px;
+    border: 1px solid var(--gray, #999);
+    padding-top: 27px;
+    padding-left: 17px;
+  }
+  .airlines-cont .header-cont-div-div .header-cont-div .form-check {
+    padding-left: 32px !important;
+  }
+  .airlines-cont .header-cont-div-div .header-cont-div .direction {
+    padding-bottom: 40px;
+  }
+  .airlines-cont .header-cont-div-div .header-cont-div .direction input {
+    width: 347.213px;
+    height: 60px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    border: 1px solid var(--yellow, #FEB20E);
+    position: relative;
+    padding-top: 26px;
+    margin-right: 0px;
+  }
+  .airlines-cont .header-cont-div-div .header-cont-div .direction input::-moz-placeholder {
+    color: var(--black, #424242);
+    /* Text 2 */
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: absolute;
+  }
+  .airlines-cont .header-cont-div-div .header-cont-div .direction input::placeholder {
+    color: var(--black, #424242);
+    /* Text 2 */
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: absolute;
+  }
+  .airlines-cont .header-cont-div-div .header-cont-div .direction .pp {
+    color: var(--gray, #999);
+    /* Text 1 */
+    font-family: Open Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.28px;
+    margin-top: 5px;
+    margin-left: 12px;
+    display: flex;
+    position: absolute;
+  }
+  .airlines-cont .header-cont-div-div .header-cont-div .direction .dropdown-menu {
+    width: 100%;
+  }
+  .airlines-cont .header-cont-div-div .header-cont-div .direction .dropdown-menu li:hover {
+    background: var(--orange-2, rgba(157, 143, 81, 0.15));
+  }
+  .airlines-cont .header-cont-div-div .header-cont-div .direction .dropdown-menu .dropdown-item:hover,
+  .airlines-cont .header-cont-div-div .header-cont-div .direction .dropdown-menu .dropdown-item:focus {
+    color: var(--bs-dropdown-link-hover-color);
+    background-color: var(--orange-2, rgba(242, 199, 0, 0.15));
+  }
+  .airlines-cont .header-cont-div-div .header-cont-div .direction .dropdown-menu a {
+    display: flex;
+    flex-wrap: nowrap;
+    color: var(--black, #424242);
+    /* 14 bold */
+    font-family: Open Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+  .airlines-cont .header-cont-div-div .header-cont-div .direction .dropdown-menu a p {
+    color: var(--gray, #999);
+    /* small */
+    font-family: Open Sans;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 2px;
+  }
+  .airlines-cont .header-cont-div-div .header-cont-div .guests {
+    padding-bottom: 20px;
+  }
+  .airlines-cont .header-cont-div-div .header-cont-div .guests .btn {
+    background-color: #FFF;
+    width: 347px;
+    height: 60px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    border: 1px solid var(--gray, #999);
+    color: var(--black, #424242);
+    /* Text 2 */
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: start;
+    margin-right: 0px;
+  }
+  .airlines-cont .header-cont-div-div .header-cont-div .guests .btn p {
+    color: var(--gray, #999);
+    /* Text 1 */
+    font-family: Open Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.28px;
+    text-align: start;
+    margin-bottom: 2px;
+  }
+  .airlines-cont .header-cont-div-div .header-cont-div .guests .dropdown-menu {
+    /* width: 417px; */
+    width: 417px;
+    padding: 37px 31px;
+  }
+  .airlines-cont .header-cont-div-div .header-cont-div .guests .dropdown-menu h1 {
+    color: var(--black, #424242);
+    /* Bold */
+    font-family: Open Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-bottom: 7px;
+  }
+  .airlines-cont .header-cont-div-div .header-cont-div .guests .dropdown-menu .cont-a {
+    color: var(--yellow, #FEB20E);
+    /* Text 2 */
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration: none;
+  }
+  .airlines-cont .header-cont-div-div .header-cont-div .guests .dropdown-menu .people {
+    gap: 35px;
+    padding-bottom: 22px;
+  }
+  .airlines-cont .header-cont-div-div .header-cont-div .guests .dropdown-menu .people .plus-minus-div-p p {
+    color: var(--gray, #999);
+    /* Text 1 */
+    font-family: Open Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.28px;
+  }
+  .airlines-cont .header-cont-div-div .header-cont-div .guests .dropdown-menu .people .plus-minus-div-p .plus-minus-div {
+    display: flex;
+    height: 35px;
+    border-radius: 10px;
+    border: 1px solid var(--gray, #999);
+  }
+  .airlines-cont .header-cont-div-div .header-cont-div .guests .dropdown-menu .people .input-plus-minus {
+    text-align: center;
+    border: none;
+  }
+  .airlines-cont .header-cont-div-div .header-cont-div .guests .dropdown-menu .people .btn-minus {
+    border: none;
+    background: none;
+  }
+  .airlines-cont .header-cont-div-div .header-cont-div .guests .dropdown-menu .people .btn-plus {
+    border: none;
+    background: none;
+  }
+  .airlines-cont .header-cont-div-div .header-cont-div .guests .children p {
+    color: var(--gray, #999);
+    /* Text 1 */
+    font-family: Open Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.28px;
+  }
+  .airlines-cont .header-cont-div-div .header-cont-div .guests .children input {
+    width: 180px;
+    height: 35px;
+    border-radius: 10px;
+    border: 1px solid var(--yellow, #FEB20E);
+  }
+  .airlines-cont .header-cont-div-div .header-cont-div .guests .children input::-moz-placeholder {
+    text-align: center;
+    color: var(--black, #424242);
+    /* Text 2 */
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .airlines-cont .header-cont-div-div .header-cont-div .guests .children input::placeholder {
+    text-align: center;
+    color: var(--black, #424242);
+    /* Text 2 */
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .airlines-cont .header-cont-div-div .header-cont-div .guests .a-btn {
+    gap: 17px;
+  }
+  .airlines-cont .header-cont-div-div .header-cont-div .guests .a-btn a {
+    color: var(--yellow, #FEB20E);
+    /* Text 2 */
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .airlines-cont .header-cont-div-div .header-cont-div .guests .a-btn .btn {
+    width: 159.054px;
+    height: 60px;
+    border-radius: 10px;
+    background: var(--yellow, #FEB20E);
+    color: #FFF;
+    text-align: center;
+    border: none;
+    font-family: Open Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-right: 0px;
+  }
+  .airlines-cont .header-cont-div-div .header-cont-div .btn1 {
+    order: 2;
+    color: #FFF;
+    width: 347px;
+    height: 60px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    background: var(--yellow, #FEB20E);
+    color: var(--white, #FFF);
+    text-align: center;
+    font-family: Open Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+  .airlines-cont .header-cont-div-div .header-cont-div .btn1:active {
+    background: radial-gradient(99.79% 100% at 31.97% 99.5%, rgba(255, 255, 255, 0) 0%, rgba(254, 178, 14, 0.6) 100%), #FEB20E;
+    box-shadow: 0px -3px 0px 0px #CEAB09 inset;
+  }
+  .airlines-cont .header-cont-div-div .header-cont-div .btn1:hover {
+    box-shadow: 0px -3px 0px 0px #CEAB09 inset;
+  }
+  .airlines-cont .header-cont-div-div .header-cont-div .form-check {
+    padding-bottom: 24px;
+  }
+  .airlines-cont .header-cont-div-div .header-cont-div .form-check p {
+    color: var(--black, #424242);
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .airlines-cont .header-cont-div-div .header-cont-div .form-check p:hover {
+    color: var(--yellow, #FEB20E);
+  }
+  .airlines-cont .header-cont-div-div .header-cont-div .form-check .form-check-input {
+    border: 2px solid var(--unnamed, #ECEBED);
+  }
+  .airlines-cont .header-cont-div-div .header-cont-div .form-check-input:checked {
+    background-color: var(--yellow, #FEB20E);
+    border: none;
+  }
+  .airlines-cont .header-cont-div-div .header-cont-div .form-check-input:focus {
+    box-shadow: none;
+  }
+}
+@media (min-width: 1400px) and (max-width: 1920px) {
+  .dog-img2-div {
+    display: none;
+  }
+}
+@media (min-width: 1400px) and (max-width: 1890px) {
+  .regions {
+    margin-left: 152px;
+  }
+  .regions p {
+    font-size: 14px;
+  }
+  .country {
+    margin-left: 152px;
+  }
+  .cities {
+    margin-left: 152px;
+  }
+  .dog-img2 {
+    margin-top: -407px !important;
+  }
+}
+@media (min-width: 1401px) and (max-width: 1600px) {
+  .regions {
+    margin-left: 270px;
+  }
+  .regions p {
+    font-size: 14px;
+  }
+  .country {
+    margin-left: 270px;
+  }
+  .cities {
+    margin-left: 270px;
+  }
+}/*# sourceMappingURL=responsive.css.map */
